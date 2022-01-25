@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @JohnAdept
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Coding and New tech
+- 🌱 I’m currently learning python,C,Java,Django,Bash and Kali tools
+- 💞️ I’m looking to collaborate on Web Developments with Django framework,
+- 💞️ and know more about Pentesting
+- 📫 How to reach me johnedwinadept@gmail.com
+
 
 <!---
-JohnAdept/JohnAdept is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+My first git hub page.
 --->
